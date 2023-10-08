@@ -1,2 +1,2 @@
-# Diwali_Sales_Data_Analysis
-Here, We will analyse the data of diwali sales of a store using python and its libraries.
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
